@@ -1,4 +1,4 @@
-# trying_weather_application
+# Weather Application
 flutter application, that get the user depending Cities name, and it also get the forecast for the next 5 Days.
 
 ## Getting Started
