@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 34.4667,
+        "lat": 31.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "سماء صافية",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 295.87,
+        "feels_like": 295.79,
+        "temp_min": 295.87,
+        "temp_max": 295.87,
+        "pressure": 1015,
+        "humidity": 61,
+        "sea_level": 1015,
+        "grnd_level": 1009
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.86,
+        "deg": 14,
+        "gust": 8.36
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1730134574,
+    "sys": {
+        "country": "PS",
+        "sunrise": 1730087693,
+        "sunset": 1730127402
+    },
+    "timezone": 7200,
+    "id": 281133,
+    "name": "غزة",
+    "cod": 200
+}
